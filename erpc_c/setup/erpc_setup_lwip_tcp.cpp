@@ -5,7 +5,8 @@
  *
  * @author Andrej Hýroš, xhyros00@stud.fit.vut.cz
  * @date 7th of May, 2025
- * @copyright Apache License 2.0
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
  */
 
 
